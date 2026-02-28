@@ -7,3 +7,11 @@ venv/
 pip-log.txt
 .tox/
 .cache
+mlruns/
+mlflow.db
+*.ipynb
+images/
+README.md
+.gitignore
+app/model/logistic_trained_pipeline-*.pkl
+app/model/svm_trained_pipeline-*.pkl

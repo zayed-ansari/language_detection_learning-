@@ -1,5 +1,13 @@
-.fastapi/
-.vscode/
-app/Language Detection.csv
 
+__pycache__/
+*.pyc
+.fastapi/
+
+mlruns/
+mlflow.db
+
+app/Language Detection.csv
 app/detection.ipynb
+
+app/model/logistic_trained_pipeline-*.pkl
+app/model/svm_trained_pipeline-*.pkl
