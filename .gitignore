@@ -1,0 +1,5 @@
+.fastapi/
+.vscode/
+app/Language Detection.csv
+
+app/detection.ipynb
